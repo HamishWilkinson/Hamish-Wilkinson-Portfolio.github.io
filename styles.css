@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
-/*{
+*{
     outline: solid 3px blue;
-}*/
+}*
 
 body {
     background-color: ##2D2F3B;
@@ -104,15 +104,12 @@ body {
 }
 
 .photogrid {
-    height: 1600px;
     background-color: #2D2F3B;
-    display: inline-grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    padding-left: 200px;
-    padding-right: 200px;
+    margin: auto;
     text-align: center;
     border-bottom: 8px solid #4CB963;
+    
+
 }
 
 #titlecontact {
