@@ -42,7 +42,7 @@ body {
 
 .coverphoto {
     text-align: center;
-    background-color: #2D2F3B;
+    background-image: url(img/double-bubble-dark.png);
     border-bottom: 8px solid #4CB963;
 }
 
@@ -95,7 +95,7 @@ body {
 }
 
 #titleportfolio {
-    background-color: #2D2F3B;
+    background-image: url(img/double-bubble-dark.png);
     color: #9EE493;
     padding-left: 100px;
     padding-top: 1px;
@@ -104,7 +104,7 @@ body {
 }
 
 .photogrid {
-    background-color: #2D2F3B;
+    background-image: url(img/double-bubble-dark.png);
     margin: auto;
     text-align: center;
     border-bottom: 8px solid #4CB963;
